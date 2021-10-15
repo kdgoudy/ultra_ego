@@ -1,0 +1,19 @@
+body {
+    font-family: 'Akronim', cursive;
+    background-color: black;
+    color: magenta;
+}
+
+.ego {
+    width: 700px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
